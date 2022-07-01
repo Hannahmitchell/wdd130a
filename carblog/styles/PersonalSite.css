@@ -1,5 +1,7 @@
 img {
     width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 body {
 background-color: #F1DAC4;
@@ -10,6 +12,8 @@ header{
 }
 nav {
     text-align: center;
+    list-style-type: none;
+    padding-left: 10px;
 }
 .home-title {
     font-size: 40px;
