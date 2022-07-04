@@ -29,5 +29,72 @@ nav {
 }
 footer {
     background-color: #011638;
-
+    padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer h4 {
+    color: #F1DAC4;
+}
+main h3 {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+nav a:link, nav a:visited {
+    color: var(--nav-link-color);
+  }
+  nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover-background-color);
+  }
+  .snow_audi {
+    display: block;
+    border: 10px solid #EA638C;
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.social {
+   
+}
+.fb {
+    height: 50px;
+    width: 50px;
+}
+.twitter {
+    height: 50px;
+    width: 50px;
+}
+p {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.prius {
+    display: block;
+    border: 10px solid #EA638C;
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.google_meme {
+    display: block;
+    border: 10px solid #EA638C;
+    height: 300px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mya_mazda {
+    display: block;
+    border: 10px solid #EA638C;
+    height: 450px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
