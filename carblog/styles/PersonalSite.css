@@ -48,7 +48,7 @@ nav a:link, nav a:visited {
     color: var(--nav-link-color);
   }
   nav a:hover {
-    color: var(--nav-hover-link-color);
+    color: #011638;
     background-color: var(--nav-hover-background-color);
   }
   .snow_audi {
@@ -184,4 +184,11 @@ p {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+h3 a {
+    color:#EA638C;
+}
+h1 a {
+    color:#011638;
+    text-align: center;
 }
